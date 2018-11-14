@@ -7,11 +7,7 @@
 
 ![Using Paddy](.images/GIFs/main.gif)
 
-<a href="https://github.com/DWilliames/paddy-sketch-plugin/archive/master.zip">
-  <img height="40" src=".images/download.svg" >
-</a>
-
-Double click the downloaded file (*Paddy.sketchplugin*) to install it.
+Download the repository from https://github.com/jackoliver/paddy-sketch-plugin/archive/master.zip
 
 ---
 
